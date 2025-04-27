@@ -9,4 +9,4 @@ latex/
 # Documentation files 
 *.pdf
 *.md
-# !README.md 
+!README.md 
