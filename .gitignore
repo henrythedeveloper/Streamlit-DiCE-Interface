@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+saved_artifacts/
+screenshots/
+latex/
+
+# Documentation files 
+*.pdf
+*.md
+# !README.md 
